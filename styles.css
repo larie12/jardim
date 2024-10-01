@@ -1,0 +1,24 @@
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family:"Edu Australia VIC WA NT Hand Guides";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #64A712;
+    color: white;
+    font-family:"Edu Australia VIC WA NT Hand Guides";
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
